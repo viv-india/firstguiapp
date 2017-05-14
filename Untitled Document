@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=ls
+Comment=This is my comment
+Exec=/media/vivek/new/python_project/l.py
+Icon=pop.jpeg
+Path=/media/vivek/new/python_project/
+Terminal=false
+Type=Application
+Categories=Utility;Application;

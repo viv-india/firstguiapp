@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Name=1stapp
+Comment=This is my comment
+Exec=/media/vivek/new/python_project/ls.py
+Icon=/media/vivek/new/python_project/pop.jpeg
+Terminal=false
+Type=Application
